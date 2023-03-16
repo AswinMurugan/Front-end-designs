@@ -6,8 +6,8 @@
   <div class="overlay__inner">
     <!-- Title -->
     <h1 class="overlay__title">
-      Hey, would you like to learn how to create a
-      <span class="text-gradient">generative</span> UI just like this?
+      Hey, check out the
+      <span class="text-gradient">generative</span> UI just I made it!!
     </h1>
     <!-- Description -->
     <p class="overlay__description">
@@ -20,7 +20,7 @@
     <div class="overlay__btns">
 
       <button class="overlay__btn overlay__btn--transparent">
-        <a href="https://georgefrancis.dev/writing/create-a-generative-landing-page-and-webgl-powered-background/" target="_blank">
+        <a href= target="_blank">
 
           View Tutorial
         </a>
